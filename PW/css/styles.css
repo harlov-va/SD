@@ -1,0 +1,12 @@
+html, body{
+    margin: 0;
+}
+
+body{
+    padding: 25px;
+}
+
+.some:after{
+    content: "(+)";
+    margin-left: 10px;
+}
